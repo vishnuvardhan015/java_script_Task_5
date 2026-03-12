@@ -9,5 +9,6 @@ console.log(username2);
 let username3 = username.toLowerCase();
 console.log(username3);
 
-let username4 = username.slice(0, 6);
+let username4 = username.slice(0, 9);
 console.log(username4);
+
